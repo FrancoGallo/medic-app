@@ -1,4 +1,4 @@
-import Excel from "./components/Excel";
+import Excel from "./Components/Excel";
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div>
       <h1>¡Hola Mundo!</h1>
 
-      <Excel />
+     <Excel />
     </div>
   );
 }
